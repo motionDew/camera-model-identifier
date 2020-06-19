@@ -10,4 +10,5 @@ pandas
 scipy           
 seaborn
 scikit-learn
+scikit-image
 
